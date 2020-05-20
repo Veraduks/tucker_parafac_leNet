@@ -1,4 +1,4 @@
-# LeNet on MNIST with Keras and Tensorflow in Python, using Tucker and PARAFAC decompositions on convolutional layers.
+# LeNet on MNIST with Keras and Tensorflow in Python, using Tensorly Tucker and PARAFAC decompositions on convolutional layers.
 
 This is an implementation of a Skudarev Egor course work. This work based on these repositories:
 
